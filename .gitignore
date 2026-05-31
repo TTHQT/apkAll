@@ -15,3 +15,7 @@ desktop.ini
 
 # Temp
 *.tmp
+
+# APK release files
+# Upload APK files to GitHub Releases instead of committing them to the repository.
+*.apk

@@ -1,6 +1,17 @@
+<div align="center">
+
+<img src="./assets/banner.svg" alt="My APK Portfolio Banner" width="100%" />
+
 # 🎒 My APK Portfolio
 
-> 🙌 This is my personal APK portfolio repository, hosted on GitHub. All apps are Android packages (.apk), free to share and download.
+**A collection of free Android APK apps built with passion.**
+
+[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white)](#)
+[![APK](https://img.shields.io/badge/APK-Free%20Download-blue)](https://github.com/TTHQT/apkAll/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/TTHQT/apkAll?style=social)](https://github.com/TTHQT/apkAll/stargazers)
+
+</div>
 
 ---
 
@@ -15,7 +26,31 @@ A three-in-one Android study app: **Take notes → Make quizzes → Practice**, 
 - Multiple quiz modes, auto-grading
 - Built-in HTTP server for typing answers on your computer
 
-👉 [View Details](./studyApp) · [Download APK](./studyApp/app-debug.apk)
+<div align="center">
+  <img src="./studyApp/img/1.jpg" width="180" alt="StudyApp screenshot 1" />
+  <img src="./studyApp/img/2.jpg" width="180" alt="StudyApp screenshot 2" />
+  <img src="./studyApp/img/3.jpg" width="180" alt="StudyApp screenshot 3" />
+</div>
+
+<div align="center">
+  <img src="./studyApp/img/4.jpg" width="180" alt="StudyApp screenshot 4" />
+  <img src="./studyApp/img/5.jpg" width="180" alt="StudyApp screenshot 5" />
+  <img src="./studyApp/img/6.jpg" width="180" alt="StudyApp screenshot 6" />
+</div>
+
+<br />
+
+👉 [View Details](./studyApp) · [Download from Releases](https://github.com/TTHQT/apkAll/releases)
+
+---
+
+## 📥 How to Install
+
+1. Go to the [Releases](https://github.com/TTHQT/apkAll/releases) page
+2. Download the latest `.apk` file
+3. Install it on your Android phone (minimum Android 8.0)
+
+> ⚠️ Make sure you've enabled **"Install from unknown sources"** before installing.
 
 ---
 
@@ -25,13 +60,11 @@ More APKs are on the way — I'll keep adding to this repository. Stay tuned ✨
 
 ---
 
-## 📥 How to Install
+## 🔎 Recommended Repository Topics
 
-1. Browse into the app directory to check details
-2. Download the `.apk` file from the directory
-3. Install it on your Android phone (minimum Android 8.0)
+For better GitHub discoverability, this repository is best tagged with:
 
-> ⚠️ Make sure you've enabled **"Install from unknown sources"** before installing.
+`android` · `apk` · `android-apps` · `apk-collection` · `studyapp`
 
 ---
 

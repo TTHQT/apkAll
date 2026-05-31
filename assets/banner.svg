@@ -1,0 +1,31 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.55" stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(920 92) rotate(132) scale(390 260)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#glow)"/>
+  <circle cx="1038" cy="82" r="92" fill="#FFFFFF" fill-opacity="0.1"/>
+  <circle cx="140" cy="292" r="118" fill="#FFFFFF" fill-opacity="0.08"/>
+  <text x="88" y="138" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">My APK Portfolio</text>
+  <text x="92" y="202" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="500">Free Android apps, APK downloads, screenshots, and updates</text>
+  <g transform="translate(92 244)">
+    <rect width="154" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.16"/>
+    <text x="24" y="29" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Android 8.0+</text>
+    <rect x="170" width="142" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.16"/>
+    <text x="194" y="29" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Free APKs</text>
+    <rect x="328" width="136" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.16"/>
+    <text x="356" y="29" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">StudyApp</text>
+  </g>
+  <g transform="translate(892 96)">
+    <rect width="172" height="172" rx="40" fill="#FFFFFF" fill-opacity="0.16"/>
+    <text x="34" y="112" font-size="92" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif">📱</text>
+  </g>
+</svg>
