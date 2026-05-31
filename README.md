@@ -1,43 +1,43 @@
 # 🎒 My APK Portfolio
 
-> 🙌 这是我的个人 APK 作品集仓库，托管在 GitHub 上。所有 App 均为 Android 安装包（.apk），免费分享，欢迎下载体验。
+> 🙌 This is my personal APK portfolio repository, hosted on GitHub. All apps are Android packages (.apk), free to share and download.
 
 ---
 
-## 📦 作品列表
+## 📦 App List
 
-### 1. [📚 StudyApp](./studyApp) — 随身学习小工具
+### 1. [📚 StudyApp](./studyApp) — Your Pocket Study Buddy
 
-一款三合一的安卓学习 App：**记笔记 → 出考卷 → 刷题巩固**，适合备考、背书、复习使用。
+A three-in-one Android study app: **Take notes → Make quizzes → Practice**, great for exam prep, review, and drilling knowledge.
 
-- 支持知识卡片管理、TXT/DOCX 导入、AI 自动提取知识点
-- 支持 5 种题型出卷、AI 一键生成试卷
-- 支持多种刷题模式、自动批改
-- 内置 HTTP 服务器，可在电脑上输入答案
+- Knowledge card management, TXT/DOCX import, AI auto-extract key points
+- 5 question types for exam creation, AI one-click exam generation
+- Multiple quiz modes, auto-grading
+- Built-in HTTP server for typing answers on your computer
 
-👉 [查看详情](./studyApp) · [下载 APK](./studyApp/app-debug.apk)
-
----
-
-## 🧩 更多作品
-
-更多 APK 正在路上，后续会不断往这个仓库添加，敬请期待 ✨
+👉 [View Details](./studyApp) · [Download APK](./studyApp/app-debug.apk)
 
 ---
 
-## 📥 使用方式
+## 🧩 More Apps
 
-1. 进入对应作品目录查看详情
-2. 下载目录中的 `.apk` 文件
-3. 安装到 Android 手机（最低支持 Android 8.0）
-
-> ⚠️ 安装前请确保已开启「允许安装未知来源应用」。
+More APKs are on the way — I'll keep adding to this repository. Stay tuned ✨
 
 ---
 
-## 🌟 关于本仓库
+## 📥 How to Install
 
-这个仓库是我个人的 APK 作品集，所有 App 均是出于兴趣折腾的成果。如果你觉得有趣或有用，欢迎 ⭐ Star 支持一下！
+1. Browse into the app directory to check details
+2. Download the `.apk` file from the directory
+3. Install it on your Android phone (minimum Android 8.0)
+
+> ⚠️ Make sure you've enabled **"Install from unknown sources"** before installing.
+
+---
+
+## 🌟 About This Repository
+
+This is my personal APK collection, all built out of pure interest and hobby. If you find them interesting or useful, feel free to ⭐ Star to show your support!
 
 ---
 
